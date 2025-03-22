@@ -15,7 +15,7 @@
 - <i>Is it open source?</i> 
     - As of Mar. 22nd, 2025, it is source visible and will remain so regardless of completion. 
     - It's often a plus if a developer has projects that others use and/or have made contributions to an open source project, but more importantly, one that some or many people use. This isn't and likely won't be.
-    - That said, if that changes, I'm open to it.
+        - That said, if that changes, I'm open to it.
 - <i>Is there other documentation?</i> 
     - I hope and am considering documenting my time doing this for both accountability, evidence, and fun! If I have and do, I will provide links.
 - <b><i>99%?</i></b> A.I. developed? 
