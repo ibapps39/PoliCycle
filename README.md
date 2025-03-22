@@ -6,7 +6,7 @@
 ## Additional Explanation
 - <i>Why this?</i> 
     - Well, as A.I. as developes and gets adopted by developers, studios, and employers, I believe it to be important that we make the best of it we can, develop our abilities to use it as a tool to improve productivity, and in this case even help practice with adapting and reading work that isn't our own. This isn't a perfect project, but I do hope and think it's enough to learn and push myself.
-</n>
+
 - <i>Is this vibe coding/coded?</i>
     - It is <b>not</b> <i>vibe coding</i>, as I do not intend to use any additionally A.I. generated code, as in general while A.I. can and is a great tool for developers, the goal of this project is to push my own development abilities and further simulate working on another persons, a greater project, and etc. 
     - Additionally, while I'm not sure I can say I am 100% a C++ dev., as I tend to prefer C and therefore default to, <i>C-style</i> C++, my hope to also push my abilities in that regard as well.
