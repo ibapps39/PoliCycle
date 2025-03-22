@@ -30,7 +30,7 @@
 ## Socials and Contact 
 - [https://www.linkedin.com/in/ibrown39/](https://www.linkedin.com/in/ibrown39/) - My LinkedIn
 - [https://github.com/ibapps39](https://github.com/ibapps39) - My GitHub
-- [Resume]() - Here I provide a slighty different version of my resume as it typically contains persinal and sensititive information.
+- [Resume]() - Here I provide a slightly different version of my resume as it typically contains personal and sensitive information.
 
 ## Tools, Library, and Framework.
 - [raylib](https://www.raylib.com)
