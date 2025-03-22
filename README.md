@@ -25,7 +25,7 @@
     - While I have and do like sdl/2 for other things where I want more control over my rendering backend and cross-compatibility, raylib is enough for something of this scope.
 
 ## Video(s)
-- [youtube.com](youtube.com) - placeholder
+- [ibapps39 YouTube Channel, later direct link to vide](https://www.youtube.com/@ibapps3925)
 
 ## Socials and Contact 
 - [https://www.linkedin.com/in/ibrown39/](https://www.linkedin.com/in/ibrown39/) - My LinkedIn
