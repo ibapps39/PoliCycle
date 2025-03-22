@@ -39,3 +39,5 @@
 - [Makefile](https://www.gnu.org/software/make/) - Build system, executables and tool[s] manager.
 - [GNU's Compiler Collection g++](https://www.gnu.org/software/gcc/) - Compiler. 
 - [GitHub](github.com) - Source management system
+- [Language: C++](https://isocpp.org) - C++17, isocpp.org
+- [C++ References](en.cppreference.com/w/) - en.cppreference.com/w/
